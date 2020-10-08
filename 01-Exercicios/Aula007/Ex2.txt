@@ -1,0 +1,6 @@
+
+#--- Exercício 2  - Funções
+#--- Escreva uma função que leia dois números do console
+#--- Armazene cada número em uma variável
+#--- Realize a divisão entre os dois números e armazene o resultado em uma terceira variável
+#--- Imprima o resultado e uma mensagem usando f-string
