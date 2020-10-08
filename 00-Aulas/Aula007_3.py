@@ -5,7 +5,7 @@ def soma():
     numero1 = int(input('digite o numero1: '))
     numero2 = int(input('digite o numero2: '))    
     resultado = numero1 + numero2
-    print(f'a soma dos numeros {numero1} e {numero2} é :{soma}')
+    print(f'a soma dos numeros {numero1} e {numero2} é :{resultado}')
 
 
 soma()
