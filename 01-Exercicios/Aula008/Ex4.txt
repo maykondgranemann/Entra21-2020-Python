@@ -1,0 +1,6 @@
+#--- Exercício 4  - Funções
+#--- Escreva uma função para listar endereços cadastrados:
+#---    a função deve exibir todos os endereços cadastrados na função do ex2
+#--- Escreva uma função para exibir um endereço específico:
+        a função deve exibir um endereço cadastrado na função do ex2 filtrando por 
+            id da pessoa
